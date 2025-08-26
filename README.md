@@ -36,7 +36,7 @@
 
 ## 🔥 Projetos em Destaque
 
-### 💰 MaestroFin & NewMaestroFin
+### 💰 MaestroFin
 Sistema de gestão financeira desenvolvido em Python
 - Controle de receitas e despesas
 - Relatórios financeiros
