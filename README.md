@@ -36,7 +36,7 @@
 
 ## 🔥 Projetos em Destaque
 
-### 💰 MaestroFin
+### 💰 ContaComigo
 Sistema de gestão financeira desenvolvido em Python
 - Controle de receitas e despesas
 - Relatórios financeiros
