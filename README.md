@@ -5,9 +5,9 @@
 </div>
 
 ## 🚀 Sobre Mim
-- 💻 Desenvolvedor Full Stack apaixonado por tecnologia
-- 🌱 Atualmente focado em Python e desenvolvimento web
-- 🎯 Sempre buscando novos desafios e oportunidades de aprendizado
+- 💻 Desenvolvedor apaixonado por tecnologia e IA aplicada
+- 🌱 Formado em Técnico de Informática, cursando Engenharia de Software
+- 🤖 Construindo assistentes de IA (bots, automações domésticas e financeiras)
 - 📍 Rio de Janeiro, Brasil
 
 ## 🛠️ Tecnologias que Uso
@@ -20,8 +20,13 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frameworks & Libraries
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### IA & APIs
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -36,23 +41,32 @@
 
 ## 🔥 Projetos em Destaque
 
-### 💰 ContaComigo
-Sistema de gestão financeira desenvolvido em Python
-- Controle de receitas e despesas
-- Relatórios financeiros
-- Interface intuitiva
+### 💰 [ContaComigo](https://github.com/henrique-jfp/ContaComigo)
+Ecossistema financeiro híbrido: assistente de IA ("Alfredo") no Telegram + dashboard web completo
+- Integração Open Finance com análise comportamental de gastos e score de saúde financeira
+- Leitura automática de faturas em PDF via OCR + IA
+- Gamificação (XP, níveis, missões) e MiniApp premium com gráficos avançados
+- 🔗 Teste no Telegram: [@maestrofin_bot](https://t.me/maestrofin_bot)
 
-### 🏖️ Rio Copacabana Turismo
-Website completo desenvolvido para cliente
-- HTML/CSS/JavaScript puro
-- Design responsivo
-- Foco em experiência do usuário
+### 🏠 [Alfredo OS](https://github.com/henrique-jfp/alfredo-core)
+Sistema operacional doméstico inteligente e agêntico, no estilo Alexa/Google Home — 100% autoral
+- Roteamento por IA (Gemini) entre dezenas de skills: casa inteligente, Spotify, agenda, memória de longo prazo
+- Rodando em hardware próprio (ESP32) com custo operacional próximo de zero
+
+### 🚚 [Bot Entregador](https://github.com/henrique-jfp/BotEntregador)
+Plataforma enterprise-grade de gestão de entregas: bot no Telegram + dashboard web em tempo real
+- Roteirização inteligente com clustering geográfico
+- Rastreamento ao vivo via WebSocket e scanner de código de barras
+- Controle financeiro automatizado para entregadores
+
+### 🏖️ [Cariocando](https://github.com/henrique-jfp/cariocando-)
+Blog sobre estilo de vida e cultura do Rio de Janeiro — meu TCC do curso Técnico em Informática
+- HTML/CSS/JavaScript puro, com foco em conteúdo e experiência do usuário
 
 ## 🌐 Conecte-se Comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](seu-portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-jfp/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.henriquejfp@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=henrique-jfp&color=blue&style=flat"/>
