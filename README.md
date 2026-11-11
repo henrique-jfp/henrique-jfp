@@ -27,22 +27,15 @@
 ## 🔥 Projetos em destaque
 
 <div align="center">
-  <a href="https://github.com/henrique-jfp/ContaComigo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrique-jfp&repo=ContaComigo&theme=radical&show_owner=true" />
-  </a>
-  <a href="https://github.com/henrique-jfp/alfredo-core">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrique-jfp&repo=alfredo-core&theme=radical&show_owner=true" />
-  </a>
-  <br/>
-  <a href="https://github.com/henrique-jfp/BotEntregador">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrique-jfp&repo=BotEntregador&theme=radical&show_owner=true" />
-  </a>
-  <a href="https://github.com/henrique-jfp/AutoClick">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrique-jfp&repo=AutoClick&theme=radical&show_owner=true" />
-  </a>
-</div>
 
-<br/>
+| Projeto | O que é | Status |
+|:--|:--|:--|
+| 💰 **[ContaComigo](https://github.com/henrique-jfp/ContaComigo)** | Assistente financeiro com IA no Telegram + dashboard web | ![Stars](https://img.shields.io/github/stars/henrique-jfp/ContaComigo?style=flat-square&color=8E75B2) ![Último commit](https://img.shields.io/github/last-commit/henrique-jfp/ContaComigo?style=flat-square) |
+| 🏠 **[Alfredo OS](https://github.com/henrique-jfp/alfredo-core)** | Sistema doméstico agêntico com Gemini e ESP32 | ![Stars](https://img.shields.io/github/stars/henrique-jfp/alfredo-core?style=flat-square&color=8E75B2) ![Último commit](https://img.shields.io/github/last-commit/henrique-jfp/alfredo-core?style=flat-square) |
+| 🚚 **[Bot Entregador](https://github.com/henrique-jfp/BotEntregador)** | Gestão de entregas com bot e dashboard em tempo real | ![Stars](https://img.shields.io/github/stars/henrique-jfp/BotEntregador?style=flat-square&color=8E75B2) ![Último commit](https://img.shields.io/github/last-commit/henrique-jfp/BotEntregador?style=flat-square) |
+| 🖱️ **[AutoClick](https://github.com/henrique-jfp/AutoClick)** | Auto Clicker Pro v2.0 para jogos e produtividade | ![Release](https://img.shields.io/github/v/release/henrique-jfp/AutoClick?style=flat-square&color=8E75B2) ![Último commit](https://img.shields.io/github/last-commit/henrique-jfp/AutoClick?style=flat-square) |
+
+</div>
 
 ### 💰 [ContaComigo](https://github.com/henrique-jfp/ContaComigo): finanças com IA
 Ecossistema financeiro híbrido: assistente **"Alfredo"** no Telegram + dashboard web completo.
@@ -99,9 +92,6 @@ Blog sobre estilo de vida e cultura do Rio de Janeiro, meu TCC do curso Técnico
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=henrique-jfp&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-jfp&layout=compact&theme=radical" />
-  <br/>
   <img src="https://streak-stats.demolab.com/?user=henrique-jfp&theme=radical" />
 </div>
 
