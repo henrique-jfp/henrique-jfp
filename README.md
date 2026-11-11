@@ -26,43 +26,35 @@
 
 ## 🔥 Projetos em destaque
 
-<div align="center">
+### ⚡ [SoundUp](https://github.com/henrique-jfp/SoundUp): amplificador de áudio para Windows
+Quebra a barreira dos 100% de volume, com ganho de pré-amplificação de até **300%**.
+- 🔊 Atua sobre o áudio do Windows via **Equalizer APO**, sem instalar driver de kernel
+- 🕶️ Interface em **Python** com modo furtivo na bandeja do sistema (system tray)
+- 📦 Instalador próprio com **WiX Toolset**, que detecta e instala o Equalizer APO se faltar
+- ⬇️ [Baixar o instalador](https://github.com/henrique-jfp/SoundUp/blob/main/release/SoundUpSetup.exe)
 
-| Projeto | O que é | Status |
-|:--|:--|:--|
-| 💰 **[ContaComigo](https://github.com/henrique-jfp/ContaComigo)** | Assistente financeiro com IA no Telegram + dashboard web | ![Stars](https://img.shields.io/github/stars/henrique-jfp/ContaComigo?style=flat-square&color=8E75B2) ![Último commit](https://img.shields.io/github/last-commit/henrique-jfp/ContaComigo?style=flat-square) |
-| 🏠 **[Alfredo OS](https://github.com/henrique-jfp/alfredo-core)** | Sistema doméstico agêntico com Gemini e ESP32 | ![Stars](https://img.shields.io/github/stars/henrique-jfp/alfredo-core?style=flat-square&color=8E75B2) ![Último commit](https://img.shields.io/github/last-commit/henrique-jfp/alfredo-core?style=flat-square) |
-| 🚚 **[Bot Entregador](https://github.com/henrique-jfp/BotEntregador)** | Gestão de entregas com bot e dashboard em tempo real | ![Stars](https://img.shields.io/github/stars/henrique-jfp/BotEntregador?style=flat-square&color=8E75B2) ![Último commit](https://img.shields.io/github/last-commit/henrique-jfp/BotEntregador?style=flat-square) |
-| 🖱️ **[AutoClick](https://github.com/henrique-jfp/AutoClick)** | Auto Clicker Pro v2.0 para jogos e produtividade | ![Release](https://img.shields.io/github/v/release/henrique-jfp/AutoClick?style=flat-square&color=8E75B2) ![Último commit](https://img.shields.io/github/last-commit/henrique-jfp/AutoClick?style=flat-square) |
+### 🖱️ [AutoClick](https://github.com/henrique-jfp/AutoClick): Auto Clicker Pro v2.0
+Ferramenta de automação de cliques, na versão **v2.0 "Premium Edition"**.
+- 🎯 Guia de uso para **jogos** e **produtividade**
+- 📦 Download direto pelas [Releases](https://github.com/henrique-jfp/AutoClick/releases)
 
-</div>
-
-### 💰 [ContaComigo](https://github.com/henrique-jfp/ContaComigo): finanças com IA
-Ecossistema financeiro híbrido: assistente **"Alfredo"** no Telegram + dashboard web completo.
-- 🏦 Integração **Open Finance** com análise comportamental de gastos e score de saúde financeira
-- 🧾 Leitura automática de faturas em PDF via **OCR + IA**
-- 🎮 Gamificação (XP, níveis, missões) e MiniApp premium com gráficos avançados
-- 👉 [Teste no Telegram: @maestrofin_bot](https://t.me/maestrofin_bot)
-
-### 🏠 [Alfredo OS](https://github.com/henrique-jfp/alfredo-core): sistema operacional doméstico agêntico
+### 🏠 [Alfredo OS](https://github.com/henrique-jfp/alfredo-core): sistema doméstico agêntico
 Assistente estilo Alexa/Google Home, 100% autoral.
 - 🧠 Roteamento por IA (**Gemini**) entre dezenas de skills: casa inteligente, Spotify, agenda e memória de longo prazo
 - 🔌 Roda em hardware próprio (**ESP32**), com custo operacional próximo de zero
 
+### 💰 [ContaComigo](https://github.com/henrique-jfp/ContaComigo): finanças com IA
+Assistente **"Alfredo"** no Telegram + dashboard web completo.
+- 🏦 Integração **Open Finance**, com análise de gastos e score de saúde financeira
+- 🧾 Leitura automática de faturas em PDF via **OCR + IA**
+- 🎮 Gamificação (XP, níveis, missões) e MiniApp com gráficos avançados
+- 👉 [Teste no Telegram: @maestrofin_bot](https://t.me/maestrofin_bot)
+
 ### 🚚 [Bot Entregador](https://github.com/henrique-jfp/BotEntregador): gestão de entregas
-Plataforma de gestão de entregas: bot no Telegram + dashboard web em tempo real.
+Bot no Telegram + dashboard web em tempo real.
 - 🗺️ Roteirização inteligente com clustering geográfico
 - 📡 Rastreamento ao vivo via **WebSocket** e scanner de código de barras
 - 💵 Controle financeiro automatizado para entregadores
-
-### 🖱️ [AutoClick (Auto Clicker Pro v2.0)](https://github.com/henrique-jfp/AutoClick): automação de cliques
-Ferramenta de automação de cliques com release **v2.0 "Premium Edition"** publicada.
-- 🎯 Guia de uso para **jogos** e **produtividade**
-- 📦 Download direto pelas [Releases](https://github.com/henrique-jfp/AutoClick/releases)
-
-### 🏖️ [Cariocando](https://github.com/henrique-jfp/cariocando-): blog sobre o Rio
-Blog sobre estilo de vida e cultura do Rio de Janeiro, meu TCC do curso Técnico em Informática.
-- 🌐 HTML, CSS e JavaScript puros, com foco em conteúdo e experiência do usuário
 
 ---
 
